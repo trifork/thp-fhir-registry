@@ -1,5 +1,0 @@
-{
-  "org.sql-on-fhir.ig" : true,
-  "hl7.fhir.uv.application-feature" : true,
-  "hl7.fhir.uv.testing" : true
-}
